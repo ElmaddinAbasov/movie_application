@@ -1,1 +1,1 @@
-# movie_application
+# Приложение Киноафиша 
